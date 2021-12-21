@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+.giua{
+  text-align: center;
+  margin-top: 50px;
+}
+.tach1{
+  margin: 30px;
+  width: 80px;
+  height: 40px;
+  color: #020b0e;
+  background-color: rgb(255, 115, 0);
+  border-radius: 10%;
+  font-size: 15px;
+}
+.tach2{
+  margin: 30px;
+  width: 80px;
+  height: 40px;
+  color: #220fca;
+  background-color: rgb(0, 255, 106);
+  border-radius: 10%;
+  font-size: 15px;
+}
+h2{
+  margin: 70px;
+  display: inline;
+  font-size: 20px;
+  color: chocolate;
+}
+input{
+  width: 165px;
+  height: 30px;
+  border-radius: 10%;
+  border-width: 3px;
+  border-color: crimson;
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(27, 3, 94);
+}
